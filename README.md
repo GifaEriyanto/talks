@@ -1,6 +1,6 @@
 # Tech Talks
 
-Hi, my name is Gifa Eriyanto. I'm a software engineer and my core program language is Javascript. I love to share knowledge and experience about tech. I really enjoyed it and hope what I shared will impact to our life in the future.
+Hi, my name is Gifa Eriyanto. I'm a software engineer and my core program language is Javascript. I love to share knowledge and experience about tech. I really enjoyed it and hope what I shared will motivate many people to help them growth and making impact.
 
 ## 🎤 List of My Tech Talks:
 
