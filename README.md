@@ -2,7 +2,7 @@
 
 Hi, my name is Gifa Eriyanto. I'm a software engineer and my core program language is Javascript. I love to share knowledge and experience about tech. I really enjoyed it and hope what I shared will impact to our life in the future.
 
-## List of My Tech Talks:
+## 🎤 List of My Tech Talks:
 
 ### 2019
 - [**Learn The Big O Notation**](https://www.facebook.com/photo?fbid=595455664531779&set=a.368483277229020) . 23 November 2019 . Meetup With Digital Talent with DTC Academy at South Sulawesi, Makassar;
@@ -12,6 +12,6 @@ Hi, my name is Gifa Eriyanto. I'm a software engineer and my core program langua
 
 Still a little, but better than nothing.
 
-## Blogs
+## 📝 Blogs 
 Another way to sharing knowledge, follow me on Medium:
 https://medium.com/@gifa.eriyanto
