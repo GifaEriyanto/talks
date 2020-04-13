@@ -6,7 +6,7 @@ Hi, my name is Gifa Eriyanto. I'm a software engineer and my core program langua
 
 ### 2019
 - [**Learn The Big O Notation**](https://www.facebook.com/photo?fbid=595455664531779&set=a.368483277229020) . 23 November 2019 . Meetup With Digital Talent with DTC Academy at South Sulawesi, Makassar;
-- [**Be The Next Young Entrepreneur with Technology**](https://www.facebook.com/photo?fbid=494257491318264&set=a.378928712851143) . 25 May 2019 . National Seminar at South Sulawesi, Maros;
+- [**Be The Next Young Entrepreneur with Technology**](https://www.facebook.com/photo?fbid=494257491318264&set=a.378928712851143) . 25 May 2019 . National Seminar with KomIT Maros at South Sulawesi, Maros;
 - [**Lean Canvas Introduction**](https://www.facebook.com/photo?fbid=459984294745584&set=a.368483277229020) . 07 May 2019 . DTC Tech Talks 2019 Ngabuburit with DTC Academy at South Sulawesi, Makassar;
 - [**Product Development Tips**](https://www.facebook.com/photo/?fbid=439450480132299&set=a.368483277229020) . 30 March 2019 . DTC Tech Talks 2019 with DTC Academy at South Sulawesi, Makassar;
 
