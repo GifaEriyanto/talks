@@ -11,7 +11,7 @@ Hi, my name is Gifa Eriyanto. I'm a software engineer and my core program langua
 - [**Product Development Tips**](https://www.facebook.com/photo/?fbid=439450480132299&set=a.368483277229020) . 30 March 2019 . DTC Tech Talks 2019 with DTC Academy at South Sulawesi, Makassar;
 
 ### 2020
-- [**Create a Design System with React**](https://web.facebook.com/photo?fbid=634762217084998&set=a.176459342915290) . 19 April 2020 . Webinar Pondok Informatika Makassar
+- [**Create a Design System with React**](https://web.facebook.com/photo?fbid=634762217084998&set=a.176459342915290) . 19 April 2020 . Webinar Pibelajar by Pondok Informatika Makassar
 
 Still a little, but better than nothing.
 
