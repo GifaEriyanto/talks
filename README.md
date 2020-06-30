@@ -12,6 +12,7 @@ Hi, my name is Gifa Eriyanto. I'm a software engineer and my core program langua
 
 ### 2020
 - [**Create a Design System with React**](https://web.facebook.com/photo?fbid=634762217084998&set=a.176459342915290) . 19 April 2020 . Webinar Pibelajar by Pondok Informatika Makassar
+- [**Interactive Website with React & GSAP**](https://web.facebook.com/muh.aryandi.37/videos/3473608725992321) . 21 June 2020 . Developer Circle Makassar by Facebook
 
 Still a little, but better than nothing.
 
