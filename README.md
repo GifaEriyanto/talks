@@ -4,16 +4,16 @@ Hi, my name is Gifa Eriyanto. I'm a software engineer and my core program langua
 
 ## 🎤 List of My Tech Talks:
 
+### 2020
+- [**Webinar Bakoding 1.0**](https://www.youtube.com/watch?v=5KiFy7agu_k&list=PLNaNl0ZMJ0_82ff8GMTpO9i7zX3tjhqLi&index=3&t=0s) . 25 July 2020 . Coworking Satu Tampa
+- [**Interactive Website with React & GSAP**](https://web.facebook.com/muh.aryandi.37/videos/3473608725992321) . 21 June 2020 . Developer Circle Makassar by Facebook
+- [**Create a Design System with React**](https://web.facebook.com/photo?fbid=634762217084998&set=a.176459342915290) . 19 April 2020 . Webinar Pibelajar by Pondok Informatika Makassar
+
 ### 2019
 - [**Learn The Big O Notation**](https://www.facebook.com/photo?fbid=595455664531779&set=a.368483277229020) . 23 November 2019 . Meetup With Digital Talent with DTC Academy at South Sulawesi, Makassar;
 - [**Be The Next Young Entrepreneur with Technology**](https://www.facebook.com/photo?fbid=494257491318264&set=a.378928712851143) . 25 May 2019 . National Seminar with KomIT Maros at South Sulawesi, Maros;
 - [**Lean Canvas Introduction**](https://www.facebook.com/photo?fbid=459984294745584&set=a.368483277229020) . 07 May 2019 . DTC Tech Talks 2019 Ngabuburit with DTC Academy at South Sulawesi, Makassar;
 - [**Product Development Tips**](https://www.facebook.com/photo/?fbid=439450480132299&set=a.368483277229020) . 30 March 2019 . DTC Tech Talks 2019 with DTC Academy at South Sulawesi, Makassar;
-
-### 2020
-- [**Create a Design System with React**](https://web.facebook.com/photo?fbid=634762217084998&set=a.176459342915290) . 19 April 2020 . Webinar Pibelajar by Pondok Informatika Makassar
-- [**Interactive Website with React & GSAP**](https://web.facebook.com/muh.aryandi.37/videos/3473608725992321) . 21 June 2020 . Developer Circle Makassar by Facebook
-- [**Webinar Bakoding 1.0**](https://www.youtube.com/watch?v=5KiFy7agu_k&list=PLNaNl0ZMJ0_82ff8GMTpO9i7zX3tjhqLi&index=3&t=0s) . 25 July 2020 . Coworking Satu Tampa
 
 Still a little, but better than nothing.
 
