@@ -4,7 +4,11 @@ Hi, my name is Gifa Eriyanto. I'm a software engineer and my core program langua
 
 ## 🎤 List of My Tech Talks:
 
+### 2021
+- [**Cerita Design System**](https://youtu.be/o3NKZbEmnbk) . 10 March 2021 . Cerita Anak IT by [Tarra HD](https://www.youtube.com/channel/UCHytnWiBX7VVl2Iov0HjEuQ) on Youtube
+
 ### 2020
+- [**Belajar Frontend dari 0**](https://www.instagram.com/p/CH5TbLRJbx-/) . 22 November 2020 . Mini Course Event by Komunitas Programmer Makassar (KPM) at South Sulawesi, Makassar
 - [**Software Engineer Life in The New Normal**](https://www.instagram.com/p/CGWqyZ5pX4a/) . 17 October 2020 . Tech Talks by DTC Academy at South Sulawesi, Makassar
 - [**Ngebacot Vol.2**](https://ibb.co/LtSyMfV) . 8 August 2020 . Ngebacot (Ngobrol Bareng CEOTECH) by CEOTECH
 - [**Webinar Bakoding 1.0**](https://www.youtube.com/watch?v=5KiFy7agu_k&list=PLNaNl0ZMJ0_82ff8GMTpO9i7zX3tjhqLi&index=3&t=0s) . 25 July 2020 . Bakoding by Coworking Satu Tampa
