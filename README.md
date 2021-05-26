@@ -25,4 +25,4 @@ Still a little, but better than nothing.
 
 ## 📝 Blogs 
 Another way to sharing knowledge, follow me on Medium:
-https://medium.com/@gifa.eriyanto
+https://gifaeriyanto.medium.com/
