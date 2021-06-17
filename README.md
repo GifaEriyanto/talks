@@ -5,6 +5,7 @@ Hi, my name is Gifa Eriyanto. I'm a software engineer and my core program langua
 ## 🎤 List of My Tech Talks:
 
 ### 2021
+- [**Design System with Chakra UI**](https://i.ibb.co/82Y2LYq/Distribute-Your-Wisdom-2.png) . 25 May 2021 . Distribute Your Wisdom by [Quipper](http://quipper.com/)
 - [**Cerita Design System**](https://youtu.be/o3NKZbEmnbk) . 10 March 2021 . Cerita Anak IT by [Tarra HD](https://www.youtube.com/channel/UCHytnWiBX7VVl2Iov0HjEuQ) on Youtube
 
 ### 2020
